@@ -1,1 +1,1 @@
-# AWS Resource Tracker using shell scripting
+# AWS Resource Tracker For Beginners
