@@ -1,1 +1,2 @@
-# AWS Resource Tracker For Beginners
+# DevOps for Beginners
+### AWS Resource Tracker Project

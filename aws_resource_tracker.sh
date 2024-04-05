@@ -13,11 +13,6 @@
 
 set -x # debug mode
 
-# 1). Install bash
-# 2). Install AWS CLI
-# 3). Configure AWS using shell command
-# 4). To run the script, use this command in your linux terminal "./aws_resource_tracker.sh"
-
 # AWS s3
 # AWS EC2
 # AWS Lambda
