@@ -1,11 +1,11 @@
 # DevOps for Beginners
 ### AWS Resource Tracker Project
 
-1. **Install bash and git if not already installed**
+## **Install bash and git if not already installed**
 ```bash
 sudo apt-get update -y && sudo apt-get install -y bash curl git unzip vim less
 ```
-2. **Clone the Repository**
+## **Clone the Repository**
 Use the following command to clone this repository:
 
 ```bash 
@@ -23,7 +23,7 @@ npm install -g yarn
 echo "Installing project dependencies..."
 yarn install -->
 
-3. **Install AWS CLI**
+## **Install AWS CLI**
 1. Install [AWS CLI](https://aws.amazon.com/cli/)
 1. Configure the AWS CLI with your account information (you can use `aws configure`)
 <!-- # Setup serverless framework (https://www.serverless.com/framework/docs/providers/aws/guide/installation)
@@ -38,7 +38,7 @@ cd ./service
 echo "Deploying the application..."
 sls deploy -->
 
-4. **Run the shell script**
+## **Run the shell script**
 To execute the shell file, run this command in the terminal
 ```bash
 ./aws_resource_tracker.sh
